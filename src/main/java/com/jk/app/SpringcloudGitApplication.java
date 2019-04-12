@@ -10,4 +10,7 @@ public class SpringcloudGitApplication {
         SpringApplication.run(SpringcloudGitApplication.class, args);
     }
 
+    public void aa(){
+        System.out.println("hello world！！！！！！");
+    }
 }
